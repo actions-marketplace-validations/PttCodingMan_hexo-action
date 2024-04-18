@@ -1,6 +1,6 @@
-name: 'Hexo Action'
+name: 'Hexo Action for quick bug fixes'
 description: 'Hexo CI/CD action for automating deployment.'
-author: 'sma11black'
+author: 'PttCodingMan'
 inputs:
   user_name:
     description: 'Github user name'
